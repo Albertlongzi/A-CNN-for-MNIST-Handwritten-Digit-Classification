@@ -12,23 +12,24 @@ The code is simple enough to understand
 再然后是2000维的第一隐层
 再然后是100维的第二隐层
 最后是10维的输出
-想法：
+<br/>
+想法：<br/>
 主程序：handwritten.m
 	• 卷积：conv.m(应该也就是W1系数，20组，9*9)
+	<br/>
+![image](https://user-images.githubusercontent.com/58661013/132947034-547d5c6d-5773-4aa9-a087-72121d0750c0.png)
 	
-![image](https://user-images.githubusercontent.com/58661013/132946899-9b644003-bf42-4b13-ba10-00085891f308.png)
-	
-	实现full版本卷积的操作
-	反向传播
+	实现full版本卷积的操作<br/>
+	反向传播<br/>
 	
 ![image](https://user-images.githubusercontent.com/58661013/132946907-1b15e257-de49-43dd-a4df-89bb00431830.png)
-	• 池化：pool.m
+	• 池化：pool.m<br/>
 	
-	这里进行的是平均化的池化操作
-	反向传播
+	这里进行的是平均化的池化操作<br/>
+	反向传播<br/>
 	
-	• ReLU.m
-	• Softmax.m
+	• ReLU.m<br/>
+	• Softmax.m<br/>
 ![image](https://user-images.githubusercontent.com/58661013/132946926-87d74ddc-c066-4708-aaf9-bf86f9d51489.png)
 整体架构
 ![image](https://user-images.githubusercontent.com/58661013/132946958-e9df64f7-63b9-4ee8-91fb-c069f565ad35.png)
