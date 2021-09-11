@@ -23,14 +23,15 @@ The code is simple enough to understand
 	反向传播<br/>
 ![image](https://user-images.githubusercontent.com/58661013/132947072-16404fad-e0e4-43f2-8df4-3af051bf4cb2.png)
 	• 池化：pool.m<br/>
-	![image](https://user-images.githubusercontent.com/58661013/132947076-810f4125-e69f-43bc-b233-0bb8a2f2cd16.png)
+![image](https://user-images.githubusercontent.com/58661013/132947096-589160f1-955c-41ea-a6fa-cde8373369c8.png)
 
 	这里进行的是平均化的池化操作<br/>
 	反向传播<br/>
-	
+![image](https://user-images.githubusercontent.com/58661013/132947102-cf46fae5-1ae4-4b92-a9d8-b729c3fb8721.png)
+
 	• ReLU.m<br/>
 	• Softmax.m<br/>
-![image](https://user-images.githubusercontent.com/58661013/132946926-87d74ddc-c066-4708-aaf9-bf86f9d51489.png)
+
 整体架构
 ![image](https://user-images.githubusercontent.com/58661013/132946958-e9df64f7-63b9-4ee8-91fb-c069f565ad35.png)
 图表 1 单卷积层框架
