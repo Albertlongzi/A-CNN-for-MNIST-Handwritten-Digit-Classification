@@ -21,10 +21,10 @@ The code is simple enough to understand
 	
 	实现full版本卷积的操作<br/>
 	反向传播<br/>
-	
-![image](https://user-images.githubusercontent.com/58661013/132946907-1b15e257-de49-43dd-a4df-89bb00431830.png)
+![image](https://user-images.githubusercontent.com/58661013/132947072-16404fad-e0e4-43f2-8df4-3af051bf4cb2.png)
 	• 池化：pool.m<br/>
-	
+	![image](https://user-images.githubusercontent.com/58661013/132947076-810f4125-e69f-43bc-b233-0bb8a2f2cd16.png)
+
 	这里进行的是平均化的池化操作<br/>
 	反向传播<br/>
 	
