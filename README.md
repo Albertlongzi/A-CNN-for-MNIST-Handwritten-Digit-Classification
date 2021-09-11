@@ -4,6 +4,7 @@ In Matlab language<br/>
 代码很简单，相信能看懂<br/>
 Spring 2021 UESTC Introduction to Deep Learning big homework, handwritten numeral based recognition without lib
 The code is simple enough to understand
+<br/>
 输入是28乘以28的正则化数据
 首先需要20个9乘以9的卷积核(问题：这个卷积核应该如何定义，怎样去提取的特征)
 卷积完成过后应该是个20*20的矩阵
@@ -29,7 +30,7 @@ The code is simple enough to understand
 	• ReLU.m
 	• Softmax.m
 ![image](https://user-images.githubusercontent.com/58661013/132946926-87d74ddc-c066-4708-aaf9-bf86f9d51489.png)
-整体架构：![image](https://user-images.githubusercontent.com/58661013/132946939-a535e66e-6c80-4d1c-ad39-a253205ce4a9.png)
+整体架构
 ![image](https://user-images.githubusercontent.com/58661013/132946958-e9df64f7-63b9-4ee8-91fb-c069f565ad35.png)
 图表 1 单卷积层框架
 ![image](https://user-images.githubusercontent.com/58661013/132946964-d64baf9a-63aa-4a18-afe2-a6b6fdb21694.png)
